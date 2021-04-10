@@ -51,7 +51,7 @@ function getValues(){
   console.log("data:", value, type, newExpense)
 
   // rendering the values in the page
-  const transactionsContainer = document.getElementById("transactions-container")
+  const transactionsContainer = document.getElementById("transactionsContainer")
   const dataRow = document.createElement("div");
   dataRow.classList.add('eachTransaction')
 
