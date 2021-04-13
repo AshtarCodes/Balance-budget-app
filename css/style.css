@@ -16,6 +16,7 @@ body {
   color: #F8F4E3;  
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 
 .wrapper {
@@ -79,6 +80,7 @@ main {
   padding: 1em;
   margin-bottom: 1em;
   background: #712F79;
+  text-align: left;
 }
 
 .eachTransaction {
