@@ -1,4 +1,4 @@
-# 5-Ingredient Recipe Webapp
+# Balance Budget -- Expense-Tracking Webapp
 An MVP for an expense tracking app created during the GDG Memphis Pair Programming Jam on April 10th, 2021. This was created by a small team in 2 hours, and was voted as the favorite at the meetup.  
 
 **Link to client-side webapp:** https://balancebudget.netlify.app
